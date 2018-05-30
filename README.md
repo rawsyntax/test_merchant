@@ -1,6 +1,8 @@
 Test Merchant
 ================
 
+A command-line ActiveMerchant testing tool using Thor.
+
 Setup
 -------------
 
