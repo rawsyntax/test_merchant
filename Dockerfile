@@ -1,4 +1,4 @@
-FROM ruby:2.4.3
+FROM ruby:2.3.6
 RUN apt-get update -qq && apt-get install -y build-essential
 
 ENV APP_HOME /myapp

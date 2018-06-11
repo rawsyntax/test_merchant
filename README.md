@@ -8,7 +8,7 @@ Setup
 
 This application requires:
 
-- Ruby 2.4.3
+- Ruby 2.3.6
 - Rails 5.1.5
 
 Run this command to get started:
